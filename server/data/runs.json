@@ -1,0 +1,217 @@
+[
+  {
+    "id": "cl_1770521604595_gqxo33",
+    "project": "CarbonLint Dashboard",
+    "command": "Live monitoring",
+    "branch": "main",
+    "commit": "N/A",
+    "timestamp": "2026-02-08T03:33:24.595Z",
+    "resources": {
+      "wall_time": 80.301,
+      "cpu_utilization": 98.33855544089259,
+      "cpu_time_user": 55.27679038321381,
+      "cpu_time_system": 23.69005302137735,
+      "memory_peak_mb": 9649,
+      "memory_avg_percent": 59.039682539682545,
+      "disk_read_mb": 0,
+      "disk_write_mb": 0,
+      "net_recv_mb": 0,
+      "net_sent_mb": 0,
+      "gpu_utilization": 0
+    },
+    "energy": {
+      "total_kwh": 0.0006405251461891481,
+      "cpu_kwh": 0.0006141865598134868,
+      "gpu_kwh": 0,
+      "memory_kwh": 0.000026338586375661383,
+      "disk_kwh": 0,
+      "network_kwh": 0
+    },
+    "carbon": {
+      "total_grams": 0.30424944443984536,
+      "region": "GLOBAL-AVG",
+      "intensity": 475,
+      "pue": 1
+    },
+    "impact": "LOW",
+    "equivalents": {
+      "smartphoneCharges": "0.04",
+      "googleSearches": "1.5",
+      "kmDrivenCar": "0.003",
+      "hoursStreamingVideo": "0.01",
+      "treeDaysAbsorption": "0.01"
+    }
+  },
+  {
+    "id": "cl_1770521335919_3o2mqs",
+    "project": "CarbonLint Dashboard",
+    "command": "Live monitoring",
+    "branch": "main",
+    "commit": "N/A",
+    "timestamp": "2026-02-08T03:28:55.919Z",
+    "resources": {
+      "wall_time": 43.425,
+      "cpu_utilization": 86.38803544007207,
+      "cpu_time_user": 26.259803072895906,
+      "cpu_time_system": 11.254201316955388,
+      "memory_peak_mb": 9031,
+      "memory_avg_percent": 55.90322580645162,
+      "disk_read_mb": 0,
+      "disk_write_mb": 0,
+      "net_recv_mb": 0,
+      "net_sent_mb": 0,
+      "gpu_utilization": 0
+    },
+    "energy": {
+      "total_kwh": 0.0003052622429246499,
+      "cpu_kwh": 0.00029177558969884344,
+      "gpu_kwh": 0,
+      "memory_kwh": 0.000013486653225806452,
+      "disk_kwh": 0,
+      "network_kwh": 0
+    },
+    "carbon": {
+      "total_grams": 0.1449995653892087,
+      "region": "GLOBAL-AVG",
+      "intensity": 475,
+      "pue": 1
+    },
+    "impact": "LOW",
+    "equivalents": {
+      "smartphoneCharges": "0.02",
+      "googleSearches": "0.7",
+      "kmDrivenCar": "0.001",
+      "hoursStreamingVideo": "0.00",
+      "treeDaysAbsorption": "0.01"
+    }
+  },
+  {
+    "id": "cl_1770521258993_njquiw",
+    "project": "CarbonLint Dashboard",
+    "command": "Live monitoring",
+    "branch": "main",
+    "commit": "N/A",
+    "timestamp": "2026-02-08T03:27:38.993Z",
+    "resources": {
+      "wall_time": 5.354,
+      "cpu_utilization": 69.7876848566188,
+      "cpu_time_user": 2.615502853056359,
+      "cpu_time_system": 1.120929794167011,
+      "memory_peak_mb": 8891,
+      "memory_avg_percent": 55.55,
+      "disk_read_mb": 0,
+      "disk_write_mb": 0,
+      "net_recv_mb": 0,
+      "net_sent_mb": 0,
+      "gpu_utilization": 0
+    },
+    "energy": {
+      "total_kwh": 0.00003071344670062621,
+      "cpu_kwh": 0.000029061142811737325,
+      "gpu_kwh": 0,
+      "memory_kwh": 0.0000016523038888888888,
+      "disk_kwh": 0,
+      "network_kwh": 0
+    },
+    "carbon": {
+      "total_grams": 0.01458888718279745,
+      "region": "GLOBAL-AVG",
+      "intensity": 475,
+      "pue": 1
+    },
+    "impact": "LOW",
+    "equivalents": {
+      "smartphoneCharges": "0.00",
+      "googleSearches": "0.1",
+      "kmDrivenCar": "0.000",
+      "hoursStreamingVideo": "0.00",
+      "treeDaysAbsorption": "0.00"
+    }
+  },
+  {
+    "id": "cl_1770520563031_t8tj8z",
+    "project": "CarbonLint Dashboard",
+    "command": "Live monitoring",
+    "branch": "main",
+    "commit": "N/A",
+    "timestamp": "2026-02-08T03:16:03.031Z",
+    "resources": {
+      "wall_time": 576.629,
+      "cpu_utilization": 99.99043596904447,
+      "cpu_time_user": 403.60169571675897,
+      "cpu_time_system": 172.97215530718242,
+      "memory_peak_mb": 14916,
+      "memory_avg_percent": 80.30000000000007,
+      "disk_read_mb": 0,
+      "disk_write_mb": 0,
+      "net_recv_mb": 0,
+      "net_sent_mb": 0,
+      "gpu_utilization": 0
+    },
+    "energy": {
+      "total_kwh": 0.004741703889630656,
+      "cpu_kwh": 0.004484463285741767,
+      "gpu_kwh": 0,
+      "memory_kwh": 0.00025724060388888914,
+      "disk_kwh": 0,
+      "network_kwh": 0
+    },
+    "carbon": {
+      "total_grams": 2.252309347574562,
+      "region": "GLOBAL-AVG",
+      "intensity": 475,
+      "pue": 1
+    },
+    "impact": "MEDIUM",
+    "equivalents": {
+      "smartphoneCharges": "0.27",
+      "googleSearches": "11.3",
+      "kmDrivenCar": "0.019",
+      "hoursStreamingVideo": "0.06",
+      "treeDaysAbsorption": "0.10"
+    }
+  },
+  {
+    "id": "cl_1770520487485_nvxivv",
+    "project": "CarbonLint Dashboard",
+    "command": "Live monitoring session",
+    "branch": "main",
+    "commit": "N/A",
+    "timestamp": "2026-02-08T03:14:47.485Z",
+    "resources": {
+      "wall_time": 56.269,
+      "cpu_utilization": 94.3998514427723,
+      "cpu_time_user": 37.18249668583348,
+      "cpu_time_system": 15.935355722500061,
+      "memory_peak_mb": 14351,
+      "memory_avg_percent": 87.91935483870968,
+      "disk_read_mb": 0,
+      "disk_write_mb": 0,
+      "net_recv_mb": 0,
+      "net_sent_mb": 0,
+      "gpu_utilization": 0
+    },
+    "energy": {
+      "total_kwh": 0.0010002984532956282,
+      "cpu_kwh": 0.0009590723351504669,
+      "gpu_kwh": 0,
+      "memory_kwh": 0.00004122611814516129,
+      "disk_kwh": 0,
+      "network_kwh": 0
+    },
+    "carbon": {
+      "total_grams": 0.4751417653154234,
+      "region": "GLOBAL-AVG",
+      "intensity": 475,
+      "pue": 1
+    },
+    "impact": "LOW",
+    "equivalents": {
+      "smartphoneCharges": "0.06",
+      "googleSearches": "2.4",
+      "kmDrivenCar": "0.004",
+      "hoursStreamingVideo": "0.01",
+      "treeDaysAbsorption": "0.02"
+    }
+  }
+]
