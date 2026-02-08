@@ -160,6 +160,4 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 **Made with 💚 for a greener planet**
 
-[Report Bug](https://github.com/yourusername/carbonlint/issues) · [Request Feature](https://github.com/yourusername/carbonlint/issues)
-
-</div>
+[Report Bug](https://github.com/nishal21/carbonlint-web/issues) · [Request Feature](https://github.com/nishal21/carbonlint-web/issues)                                                                                                                                                                                    </div>
